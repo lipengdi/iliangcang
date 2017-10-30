@@ -1,0 +1,186 @@
+.body{
+	background-color: #999999;
+}
+.regsiter{
+	width: 560px;
+	height: 640px;
+	/*background-color: blue;*/
+	margin:0 auto;
+	margin-top: 75px;
+}
+.regsiter img{
+	margin-left: 140px;
+}
+.regsiter .shoujihao{
+	font-size: 14px;
+	font-weight: 600;
+	height: 50px;
+	/*background-color:gold;*/
+	margin-top: 25px;
+	line-height: 50px;
+	color: #F5F5F5;
+	
+}
+.regsiter .shoujihao .qingshuru{
+	width: 320px;
+	height: 50px;
+	background-color:#CBCBCB;
+	margin-top:-50px;
+	margin-left:90px;
+}
+.regsiter .shoujihao .qingshuru input{
+	
+	background-color: #CCCCCC;
+	border: none;
+	outline: none;
+	color: white;
+	text-indent: 20px;
+}
+.regsiter .yanzhengma{
+	margin-top: 10px;
+}
+.regsiter .yanzhengma .shuru{
+	width: 245px;
+}
+.regsiter .yanzhengma img{
+	margin-left: 360px;
+	margin-top: -40px;
+	float: left;
+}
+.regsiter .yanzhengma a{
+	margin-left: 432px;
+	margin-top: -50px;
+	float: left;
+	text-decoration: none;
+	color: white;
+	font-size: 12px;
+}
+.regsiter .cjmima{
+	margin-top: 10px;
+}
+.regsiter .cjmima input{
+	margin-top: 10px;
+	width: 205px;
+}
+.regsiter .cjmima .nandu{
+	width: 125px;
+	height: 10px;
+	background-color: white;
+	margin-top: -40px;
+	margin-left:428px;
+	border:1px solid #4C4C4C;
+}
+.regsiter .cjmima .wenzi{
+    font-size: 12px;
+	margin-top: -15px;
+	margin-left:428px;
+	color: #4C4C4C;
+}
+.regsiter .cjmima .wenzi .ruo{
+	display:inline-block;
+	width: 40px;
+}
+.regsiter .cjmima .wenzi .zhong{
+	
+    display: inline-block;
+    width: 40px;
+    text-align: center;
+}
+.regsiter .cjmima .wenzi .qiang{
+	display:inline-block;
+	width: 38px;
+	text-align: right;
+}
+.regsiter .mimaqr{
+	margin-top: 10px;
+}
+.regsiter .tongyi{
+	width: 320px;
+	height: 18px;
+	/*background-color:bisque;*/
+	margin-top: 32px;
+	margin-left:85px;
+	font-size: 12px;
+	color: white;
+}
+.regsiter .tongyi input{
+	margin-top: 2px;
+	float: left;
+}
+.regsiter .tongyi a{
+
+	text-decoration: none;
+	color:#0C79CC;
+}
+.regsiter .lijizhuce{
+	width: 320px;
+	height: 50px;
+	background-color: #25292e;
+    margin-top: 20px;
+	text-align: center;
+	margin-left: 90px;
+	line-height: 50px;
+	font-size: 20px;
+	font-weight: 600;
+	color: white;
+}
+.regsiter .qq{
+	width: 320px;
+	height: 40px;
+	/*background-color:rosybrown;*/
+    margin-top: 36px; 
+	margin-left: 90px;
+}
+.regsiter .qq a{
+	margin-right: 2px;
+	float: right;
+	text-decoration: none;
+	color: white;
+	font-size: 14px;
+	font-weight: 600;
+}
+.regsiter .qq .QQ{
+	display: block;
+	width: 36px;
+	height:36px;
+    background: url(../img/more-login4.png)no-repeat;
+    margin-left: -2px;
+    float: left;
+}
+.regsiter .qq .QQ:hover{
+	
+    background: url(../img/more-login4.png)no-repeat;
+    opacity: 0.5;
+
+}
+.regsiter .qq .weibo{
+	background-image: url(../img/more-login5.png);
+} 
+.regsiter .qq .weibo:hover{
+	background-image: url(../img/more-login5.png);
+	opacity: 0.5;
+} 
+.regsiter .qq .douban{
+	background-image: url(../img/more-login6.png);
+}  
+.regsiter .qq .douban:hover{
+	background-image: url(../img/more-login6.png);
+	opacity: 0.5;
+}  
+.regsiter .qq .qqwb{
+	background-image: url(../img/more-login7.png);
+} 
+.regsiter .qq .qqwb:hover{
+	background-image: url(../img/more-login7.png);
+	opacity: 0.5;
+}    
+
+.regsiter .qq .xiahuaxian{
+ width: 54px;
+ height: 2px;
+ background-color: white;
+ margin-top: -15px;
+ margin-left: 263px;
+ float: left;
+
+}

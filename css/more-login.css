@@ -1,0 +1,128 @@
+.body{
+	/*width: 100%;
+	height: 100%;*/
+	background-color:#999999;
+}
+.moreLogin{
+	width: 300px;
+	height:428px;
+	/*background-color: blue;*/
+	margin: 0 auto;
+	margin-top: 150px;
+}
+.moreLogin img{
+	margin-left:45px;
+}
+.moreLogin .shoujihao{
+	height: 50px;
+	background-color: #CCCCCC;
+	margin-top: 25px;
+	background-image: url(../img/more-login2.png);
+	background-repeat: no-repeat;
+	background-position-x:8px ;
+	background-position-y:10px;
+}
+.moreLogin .shoujihao input{
+	width:235px;
+	height:30px;
+	background-color: #CCCCCC;
+	margin-left: 48px;
+	margin-top: 8px;
+	border: none;
+	border-left:1px solid white;
+	outline: none;
+	color: white;
+	text-indent: 10px;
+	
+}
+.moreLogin .mima{
+	background-image: url(../img/more-login3.png);
+	margin-top: 10px;
+}
+.moreLogin .zidong{
+	height: 18px;
+	/*background-color:bisque;*/
+	margin-top: 15px;
+	font-size: 12px;
+	color: white;
+}
+.moreLogin .zidong input{
+	margin-top: 2px;
+	float: left;
+}
+.moreLogin .zidong a{
+	margin-right: -3px;
+	float: right;
+	text-decoration: none;
+	color: white;
+}
+.moreLogin .denglu{
+	height: 50px;
+	background-color: #25292e;
+
+	margin-top: 15px;
+	text-align: center;
+	line-height: 50px;
+	font-size: 20px;
+	font-weight: 600;
+	color: white;
+}
+.moreLogin .qq{
+	height: 40px;
+	/*background-color:rosybrown;*/
+    margin-top: 20px; 
+	
+}
+.moreLogin .qq a{
+	margin-right: 2px;
+	float: right;
+	text-decoration: none;
+	color: white;
+	font-size: 14px;
+	font-weight: 600;
+}
+.moreLogin .qq .QQ{
+	display: block;
+	width: 36px;
+	height:36px;
+    background: url(../img/more-login4.png)no-repeat;
+     margin-left: -2px;
+    float: left;
+}
+.moreLogin .qq .QQ:hover{
+	
+    background: url(../img/more-login4.png)no-repeat;
+    opacity: 0.5;
+
+}
+.moreLogin .qq .weibo{
+	background-image: url(../img/more-login5.png);
+} 
+.moreLogin .qq .weibo:hover{
+	background-image: url(../img/more-login5.png);
+	opacity: 0.5;
+} 
+.moreLogin .qq .douban{
+	background-image: url(../img/more-login6.png);
+}  
+.moreLogin .qq .douban:hover{
+	background-image: url(../img/more-login6.png);
+	opacity: 0.5;
+}  
+.moreLogin .qq .qqwb{
+	background-image: url(../img/more-login7.png);
+} 
+.moreLogin .qq .qqwb:hover{
+	background-image: url(../img/more-login7.png);
+	opacity: 0.5;
+}    
+
+.moreLogin .qq .xiahuaxian{
+ width: 54px;
+ height: 2px;
+ background-color: white;
+ margin-top: -15px;
+ margin-left: 241px;
+ float: left;
+
+}

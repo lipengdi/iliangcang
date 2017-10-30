@@ -1,0 +1,87 @@
+.login{
+	width: 300px;
+	height: 568px;
+	/*background-color: blue;*/
+	margin: 0 auto;
+	margin-top: 100px;
+}
+.login img{
+	margin-left:95px;
+}
+.shoujihao{
+	
+	height: 35px;
+	background-color: white;
+	margin-top: 50px;
+	border-bottom: 1px solid black;
+	background-image:url(../img/login2.png);
+	background-repeat: no-repeat;
+	background-position-y: 10px;
+}
+.shoujihao input{
+	margin-left: 40px;
+	margin-top: 10px;
+	border: none;
+	outline: none;
+	font-size: 18px;
+}
+.yanzhengma{
+	width: 170px;
+	height: 35px;
+	background-color: white;
+	margin-top: 25px;
+	border-bottom: 1px solid black;
+	background-image:url(../img/login3.png);
+	background-repeat: no-repeat;
+	background-position-y: 10px;
+}
+.yanzhengma input{
+	margin-left: 40px;
+	margin-top: 10px;
+	border: none;
+	outline: none;
+	font-size: 18px;
+	width: 100px;
+}
+.login .huoqu{
+	width: 110px;
+	height: 35px;
+	background-color: white;
+	border: 1px solid black;
+	border-radius: 5px;
+	margin-left: 188px;
+	margin-top: -36px;
+	text-align: center;
+	line-height: 35px;
+}
+.login .zidong{
+	height: 40px;
+	/*background-color: gold;*/
+	margin-top: 30px;
+	font-size: 12px;
+}
+.login .zidong input{
+	margin-top: 2px;
+	float: left;
+}
+.login .denglu{
+	height: 50px;
+	background-color: #25292e;
+	border-radius: 4px;
+	margin-top: 8px;
+	text-align: center;
+	line-height: 50px;
+	font-size: 20px;
+	color: white;
+}
+.login .gengduo{
+	height: 20px;
+	/*background-color:azure;*/
+	margin-top: 20px;
+	text-align: center;
+}
+.login .gengduo a{
+	text-decoration: none;
+	color: black;
+	font-size: 14px;
+}
