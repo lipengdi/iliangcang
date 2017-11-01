@@ -182,5 +182,40 @@
  margin-top: -15px;
  margin-left: 263px;
  float: left;
-
+}
+.regsiter2{
+	width:100%;
+	height:100vh; 
+	/*高度100%*/
+	position: absolute;
+	background-color:rgba(112,112,112,0.5);
+	left: 0;
+	top: 0; 
+	display: none;
+}
+.regsiter2 .geshi{
+	width:450px;
+	height:130px;
+	background-color:#F1F2F7;
+	position: absolute;
+	top: 260px;
+	left:570px;
+	border-radius:10px 10px;
+	border:1px solid black;
+	text-align: center;
+	
+}
+.regsiter2 .geshi p{
+	margin-top: 40px;
+	font-size:14px;
+}
+.regsiter2 .geshi .heikuang{
+	height:35px;
+	background-color:#282322;
+    border-radius:10px 10px 0 0;
+}
+.regsiter2 .geshi .heikuang span{
+	color:darkgray;
+	font-size:30px;
+	margin-left:395px;
 }
